@@ -1,5 +1,5 @@
 # In_Portuguese
-Seções dos slides e códigos: 
+Seções do código: 
 
 1) Entropia para a expansao de um gas
 
